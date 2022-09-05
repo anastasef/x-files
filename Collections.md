@@ -10,9 +10,9 @@
 read $O(1)$, write $O(n)$
 
 - Access $O(1)$
-- Search $O(n)$ ($O(1)$ at the front of the ArrayList) 
-- Insert $O(n)$ ($O(1)$ at the back of the ArrayList) 
-- Delete $O(n)$ ($O(1)$ at the back of the ArrayList) 
+- Search $O(n)$ ( $O(1)$ at the front of the ArrayList) 
+- Insert $O(n)$ ( $O(1)$ at the back of the ArrayList) 
+- Delete $O(n)$ ( $O(1)$ at the back of the ArrayList) 
 
 ```java
 import java.util.ArrayList;
@@ -100,7 +100,7 @@ A linear collection of data elements, called nodes, each pointing to the next no
 read $O(n)$, write $O(1)$
 
 - Access $O(n)$
-- Search $O(n)$ ($O(1)$ at the front of the ArrayList) 
+- Search $O(n)$ ( $O(1)$ at the front of the ArrayList) 
 - Insert $O(1)$
 - Delete $O(1)$ 
 
